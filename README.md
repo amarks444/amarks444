@@ -54,4 +54,5 @@ I'm a Computer Science & Engineering student who is passionate about writing cod
 <img height="180em" width="400px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=amarks444&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true" />
 <img height="180em" width="400px" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks444&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
 </p>
-⭐️ From[amarks444](https://github.com/amarks444)
+
+⭐️ From [amarks444](https://github.com/amarks444)
