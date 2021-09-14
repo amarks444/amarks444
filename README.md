@@ -2,7 +2,7 @@
   </br>
 
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="650" height="350"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="200" height="450"/>
+<!-- <img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="200" height="450"/> -->
 </br></br></br>
 
 # *I am willing to collaborate as a team player building better code.*
