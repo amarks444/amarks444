@@ -34,7 +34,7 @@
 
 <br/>
 
-### I Solve Problem at :
+### Solve Problems at :
 <p align="left">
 <a href="https://www.codechef.com/users/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codechef-amarks444-5b4638?style=for-the-badge&logo=codechef" alt="amarks444" height="30"/></a>
 <a href="https://www.hackerrank.com/amarks444?hr_r=1" target="blank"><img  src="https://img.shields.io/badge/HackerRank-amarks444-2ec866?style=for-the-badge&logo=hackerrank" alt="amarks444" height="30"/></a>
@@ -48,9 +48,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=flat-square&logo=linkedin" height="30"></a>
+<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=flat-square&logo=instagram" height="30"></a>
+<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=flat-square&logo=gmail" height="30"></a>
 </p>
 
 ⭐️ From [amarks444](https://github.com/amarks444)
