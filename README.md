@@ -1,9 +1,14 @@
 ### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar! </h1>
   </br>
+I'm a computer science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
 
-<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="100%" height="350" display="block" /> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<!-- <img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="800" height="450"/> -->
-</br></br></br>
+- 🔭 I’m currently a CSE student at Techno Main Salt Lake.
+- 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
+</br>
+<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="100%" height="500" display="block" /> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+</br>
 
 <h2>I am willing to collaborate as a team player building better code. </h2>
  </br>
