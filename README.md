@@ -49,7 +49,6 @@ I'm a computer science & Engineering student who is passionate about writing cod
 	</p>
 <br />
 
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
