@@ -1,5 +1,6 @@
 ### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar! </h1>
   </br>
+<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="35%" align="right" /> 
 I'm a computer science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
 
 - 🔭 I’m currently a CSE student at Techno Main Salt Lake.
@@ -7,7 +8,7 @@ I'm a computer science & Engineering student who is passionate about writing cod
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
 </br>
-<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="100%" height="500" display="block" /> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 </br>
 
 <h2>I am willing to collaborate as a team player building better code. </h2>
