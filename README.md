@@ -1,12 +1,12 @@
-### <h2>नमस्ते (Namaste)🙏🏻, I'm Amar!
+### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar! </h1>
   </br>
 
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="800" height="350" display="block" /> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <!-- <img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="800" height="450"/> -->
 </br></br></br>
-&nbsp;
-# *I am willing to collaborate as a team player building better code.*
 
+<h2>I am willing to collaborate as a team player building better code. </h2>
+ </br>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
