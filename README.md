@@ -1,7 +1,7 @@
 ### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar! </h1>
   </br>
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="35%" align="right" /> 
-I'm a computer science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
+I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
 
 - 🔭 I’m currently a CSE student at Techno Main Salt Lake.
 - 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB.
@@ -12,9 +12,7 @@ I'm a computer science & Engineering student who is passionate about writing cod
 </br>
 
 <h2>I am willing to collaborate as a team player building better code. </h2>
- </br>
-
-
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -37,9 +35,7 @@ I'm a computer science & Engineering student who is passionate about writing cod
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
 <br/>
-
 ### Solve Problems at :
 <p align="left">
 <a href="https://www.codechef.com/users/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codechef-amarks444-5b4638?style=for-the-badge&logo=codechef" alt="amarks444" height="30"/></a>
@@ -48,8 +44,6 @@ I'm a computer science & Engineering student who is passionate about writing cod
 <a href="https://www.hackerearth.com/@amar386" target="blank"><img  src="https://img.shields.io/badge/HackerEarth-@amar386-2c3454?style=for-the-badge&logo=hackerearth" alt="@amar386" height="30"/></a>
 	</p>
 <br />
-
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
