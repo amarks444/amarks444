@@ -46,9 +46,9 @@ I'm a Computer Science & Engineering student who is passionate about writing cod
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=flat-square&logo=linkedin" height="30"></a>
-<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=flat-square&logo=instagram" height="30"></a>
-<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=flat-square&logo=gmail" height="30"></a>
+<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=for-the-badge&logo=linkedin" height="30"></a>
+<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=for-the-badge&logo=instagram" height="30"></a>
+<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=for-the-badge&logo=gmail" height="30"></a>
 </p>
 <p align = "center">
 <img height="180em" width="400px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=amarks444&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true" />
