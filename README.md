@@ -34,9 +34,14 @@
 
 <br/>
 
-</br>
-
-
+### I Solve Problem at :
+<p align="left">
+<a href="https://www.codechef.com/users/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codechef-amarks444-5b4638?style=for-the-badge&logo=codechef" alt="amarks444" height="30"/></a>
+<a href="https://www.hackerrank.com/amarks444" target="blank"><img  src="https://www.hackerrank.com/amarks444?hr_r=1" alt="amarks444" height="30"/></a>
+<a href="https://codeforces.com/profile/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codeforces-amarks444-1f8acb?style=for-the-badge&logo=codeforces" alt="amarks444" height="30"/></a>
+<a href="https://www.hackerearth.com/@amar386" target="blank"><img  src="https://img.shields.io/badge/HackerEarth-@amar386-2c3454?style=for-the-badge&logo=hackerearth" alt="@amar386" height="30"/></a>
+	</p>
+<br />
 
 <br/>
 
