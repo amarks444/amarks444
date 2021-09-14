@@ -36,7 +36,7 @@ I'm a Computer Science & Engineering student who is passionate about writing cod
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-### Solve Problems at :
+<h3> Solve Problems at : </h3>
 <p align="left">
 <a href="https://www.codechef.com/users/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codechef-amarks444-5b4638?style=for-the-badge&logo=codechef" alt="amarks444" height="30"/></a>
 <a href="https://www.hackerrank.com/amarks444?hr_r=1" target="blank"><img  src="https://img.shields.io/badge/HackerRank-amarks444-2ec866?style=for-the-badge&logo=hackerrank" alt="amarks444" height="30"/></a>
