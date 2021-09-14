@@ -1,16 +1,13 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Amar!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="200" height="200"/>
+<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="600" height="350"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="200" height="350"/>
 </br></br></br>
-<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
+
 # *I am willing to collaborate as a team player building better code.*
 
-<!-- ### Hit this over the terminal or console, to know more about me.
-```
-npx nitish -->
-```
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
