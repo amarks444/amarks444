@@ -7,7 +7,7 @@ I'm a Computer Science & Engineering student who is passionate about writing cod
 - 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
-- raised_hands: Fun fact: I love Science Fiction Movies :zap:
+- :raised_hands: Fun fact: I love Science Fiction Movies :zap:
 
 </br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
