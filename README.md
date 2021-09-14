@@ -42,8 +42,7 @@ I'm a Computer Science & Engineering student who is passionate about writing cod
 <a href="https://www.hackerrank.com/amarks444?hr_r=1" target="blank"><img  src="https://img.shields.io/badge/HackerRank-amarks444-2ec866?style=for-the-badge&logo=hackerrank" alt="amarks444" height="30"/></a>
 <a href="https://codeforces.com/profile/amarks444" target="blank"><img  src="https://img.shields.io/badge/Codeforces-amarks444-1f8acb?style=for-the-badge&logo=codeforces" alt="amarks444" height="30"/></a>
 <a href="https://www.hackerearth.com/@amar386" target="blank"><img  src="https://img.shields.io/badge/HackerEarth-@amar386-2c3454?style=for-the-badge&logo=hackerearth" alt="@amar386" height="30"/></a>
-	</p>
-<br />
+</p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
