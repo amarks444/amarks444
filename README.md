@@ -4,7 +4,7 @@
 I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
 
 - 🔭 I’m currently a CSE student at Techno Main Salt Lake.
-- 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
 </br>
