@@ -1,8 +1,8 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Amar!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="600" height="350"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="200" height="350"/>
+<img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="650" height="350"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47mamfh98ebg7nxvl1mwuo58og664sn92pejg1pw61&rid=giphy.gif&ct=g" width="200" height="450"/>
 </br></br></br>
 
 # *I am willing to collaborate as a team player building better code.*
@@ -43,9 +43,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [amarks444](https://github.com/amarks444)
