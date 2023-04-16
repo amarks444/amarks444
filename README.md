@@ -3,9 +3,9 @@
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="35%" align="right" /> 
 I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
 
-- 🔭 I’m currently a CSE student at Techno Main Salt Lake.
-- 📚 I’m currently learning Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning.
-- 👯 I’m looking for a software development internship. 
+- 🔭 I Have completed my B.Tech from Techno Main Salt Lake as CSE .
+- 📚 I Have Aquired Skills in Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning And also Salesforce Development.
+- 👯 I’m looking for a Software Engineer Role. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
 - :raised_hands: Fun fact: I love Science Fiction Movies :zap:
 
