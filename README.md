@@ -6,7 +6,7 @@ I am a Computer Science & Engineering graduate with a deep passion for coding, p
 - 🔭 I Have completed my B.Tech from Techno Main Salt Lake as CSE .
 - 📚 I Have Aquired Skills in Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning And also Salesforce Development.
 - 👯 I was a Software Engineer at Persistent System Limited.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarks444/) [Gmail](mailto:amarks444@gmail.com)
 - :raised_hands: Fun fact: I love Science Fiction & Spy Movies Like Avenger and Mission Impossible :zap:
 
 </br>
