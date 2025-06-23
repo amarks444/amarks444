@@ -1,19 +1,19 @@
-### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar! </h1>
+### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar Shankar! </h1>
   </br>
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="35%" align="right" /> 
-I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, building software & learning new technical skills.
+I am a Computer Science & Engineering graduate with a deep passion for coding, problem-solving, and building impactful technology solutions. Currently preparing for the Civil Services Examination, I aspire to integrate my technical expertise with public services — to craft data-driven policies and ensure their seamless digital implementation as a Civil Servant officer. My goal is to bridge the gap between governance and technology for inclusive, transparent, and efficient public delivery systems.
 
 - 🔭 I Have completed my B.Tech from Techno Main Salt Lake as CSE .
 - 📚 I Have Aquired Skills in Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning And also Salesforce Development.
-- 👯 I’m looking for a Software Engineer Role. 
+- 👯 I was a Software Engineer at Persistent System Limited.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amar-shankar-0294b8176/) [Gmail](mailto:amarks444@gmail.com)
-- :raised_hands: Fun fact: I love Science Fiction Movies :zap:
+- :raised_hands: Fun fact: I love Science Fiction & Spy Movies Like Avenger and Mission Impossible :zap:
 
 </br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 </br>
 
-<h2>I am willing to collaborate as a team player building better code. </h2>
+<h2>Currently Preparing for U.P.S.C. Civil Services Examination </h2>
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
