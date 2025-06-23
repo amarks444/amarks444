@@ -48,7 +48,7 @@ I am a Computer Science & Engineering graduate with a deep passion for coding, p
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amar-shankar-0294b8176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=for-the-badge&logo=linkedin" height="30"></a>
+<a href="https://www.linkedin.com/in/amarks444/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amar%20Shankar-blue?style=for-the-badge&logo=linkedin" height="30"></a>
 <a href="https://www.instagram.com/amarks444/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amar Shankar-blue?style=for-the-badge&logo=instagram" height="30"></a>
 <a href="mailto:amarks444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amarks444@gmail.com-blue?style=for-the-badge&logo=gmail" height="30"></a>
 </p>
