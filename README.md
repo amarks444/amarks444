@@ -1,7 +1,7 @@
 ### <h1>नमस्ते (Namaste)🙏🏻, I'm Amar Shankar! </h1>
   </br>
 <img align="left"  src="https://media.giphy.com/media/TlYVgOuESSHz59ttlu/giphy.gif?cid=790b7611b4fe4195dddca5f6c821324e990abd6777826b6d&rid=giphy.gif&ct=g" alt="Amar Shankar" width="35%" align="right" /> 
-I am a Computer Science & Engineering graduate with a deep passion for coding, problem-solving, and building impactful technology solutions. Currently preparing for the Civil Services Examination, I aspire to integrate my technical expertise with public services — to craft data-driven policies and ensure their seamless digital implementation as a Civil Servant officer. My goal is to bridge the gap between governance and technology for inclusive, transparent, and efficient public delivery systems.
+I am a Computer Science & Engineering graduate with a deep passion for coding, problem-solving, and building impactful technology solutions.  I aspire to integrate my technical expertise with public services — to craft data-driven policies and ensure their seamless digital implementation. My goal is to bridge the gap between governance and technology for inclusive, transparent, and efficient public delivery systems.
 
 - 🔭 I Have completed my B.Tech from Techno Main Salt Lake as CSE .
 - 📚 I Have Aquired Skills in Full Stack Web Development using ReactJs , NodeJS, ExpressJS and MongoDB and Machine Learning And also Salesforce Development.
