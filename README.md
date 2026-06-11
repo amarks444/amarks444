@@ -13,7 +13,7 @@ I am a Computer Science & Engineering graduate with a deep passion for coding, p
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 </br>
 
-<h2>Currently Preparing for U.P.S.C. Civil Services Examination </h2>
+
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
